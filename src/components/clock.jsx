@@ -15,6 +15,7 @@ class Clock extends Component {
     minuteHand.style.transform = `rotate(${minuteDegrees}deg)`;
     const hours = now.getHours();
     const hourDegrees = ((hours / 12) * 360) + 90;
+    hourHand.style.transform = `rotate(${hourDegrees}deg)`;
   }
 
   render() {
