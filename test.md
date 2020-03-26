@@ -1,7 +1,7 @@
 # PractiCo.
 
 ![](./sign-in.png=200x200)
-<img src="./sign-in.png" width="200">
+<img src="./sign-in.png" width="400">
 
 PractiCo. is the productivity app that let's you turn personal development goals
 into challenges that you can work on with your friends.
